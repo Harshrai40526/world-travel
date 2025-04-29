@@ -1,4 +1,4 @@
-About Project
+
 A Tourism Management System is a web-based application designed to assist travelers and tourism service providers by automating various processes involved in travel planning, booking, and management. The system aims to streamline operations, improve efficiency, and enhance the user experience.
 
 
